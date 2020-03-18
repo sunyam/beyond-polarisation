@@ -1,0 +1,3 @@
+- Google's WYDL
+- Two CSVs from Davidson_ICWSM_2017 (includes hatebase)
+- Google's badwords (https://code.google.com/p/badwordslist/downloads/detail?name=badwords.txt)
